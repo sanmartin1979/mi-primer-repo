@@ -1,1 +1,2 @@
 bienvenido a mi primer repositorio
+aprendiento Git por ahora
