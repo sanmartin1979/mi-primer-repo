@@ -1,4 +1,0 @@
-bienvenido a mi primer repositorio
-aprendiento Git por ahora
-agregar una línea para probar BRANCH en LEEME
-hoy amaneció despejado 26/03/2018
