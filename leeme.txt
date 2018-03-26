@@ -1,4 +1,7 @@
 bienvenido a mi primer repositorio
 aprendiento Git por ahora
 agregar una línea para probar BRANCH en LEEME
-hoy amaneció caluroso 26/03/2018
+<<<<<<< HEAD
+=======
+hoy amaneció despejado 26/03/2018
+>>>>>>> update-leeme
